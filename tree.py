@@ -5,8 +5,8 @@ class Node:
         self.value = value
 
 class Tree:
-    def __init__(self, value):
+    def __init__(self, value = 0):
         self.value = value
         self.left = None
-        self.right = None
+        self.right = Nonee
 
