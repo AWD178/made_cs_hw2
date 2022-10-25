@@ -6,4 +6,7 @@ class Tree:
         self.value = value
         self.left = None
         self.right = None
+    
+    def change_value(new_value):
+        self.value = new_value
 
